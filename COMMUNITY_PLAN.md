@@ -1,1 +1,1 @@
-Describe the plan to support the community
+We will open source resources that contribute positively to the community

@@ -1,1 +1,1 @@
-A short introduction about your team
+Secure staking services by leading blockchain infrastructure providers
