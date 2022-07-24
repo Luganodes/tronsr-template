@@ -1,1 +1,1 @@
-Dedicated server
+We run redundant nodes across the globe on dedicated servers with very high specifications.
